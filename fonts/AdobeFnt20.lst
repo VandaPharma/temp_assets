@@ -1,0 +1,59 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/robertbroadbent/Documents/Anchor/Vanda/Email 3/Vanda_Email_Newsletter_v4 Folder/Document fonts/AdobeFnt20.lst
+FileLength:1131
+FileModTime:613509383
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:QuaverSerif
+FamilyName:Quaver Serif
+StyleName:Regular
+MenuName:Quaver Serif
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Quaver Serif
+WritingScript:Roman
+OutlineFileName:/Users/robertbroadbent/Documents/Anchor/Vanda/Email 3/Vanda_Email_Newsletter_v4 Folder/Document fonts/QuaverSerif.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:26388
+FileModTime:332046982
+NameArray:0,Mac,4,Quaver Serif
+NameArray:0,Win,1,Quaver Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-Book
+FamilyName:Gotham
+StyleName:Book
+MenuName:Gotham
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Gotham-Book
+WritingScript:Roman
+OutlineFileName:/Users/robertbroadbent/Documents/Anchor/Vanda/Email 3/Vanda_Email_Newsletter_v4 Folder/Document fonts/GothamBook.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56676
+FileModTime:490656232
+NameArray:0,Mac,4,Gotham-Book
+NameArray:0,Win,1,Gotham
+%EndFont
+
